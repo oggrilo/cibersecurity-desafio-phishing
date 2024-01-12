@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./Sem título.png "Optional title")
+![Alt text](./print.png "Optional title")
